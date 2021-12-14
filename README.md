@@ -1,4 +1,12 @@
-### Hi there 👋
+### About me
+
+I'm Filipe and I've been working as a mobile developer for almost 6 years, and I’m passionate about the mobile environment, always delivering a solution focusing on the best code and UI/UX practices. I also love music and the financial market. I believe that these areas of knowledge combined with good ideas and engagement can transform the world.
+
+Currently I’m a mobile specialist at Grupo Boticário working with technologies such as React Native, Typescript, Swift, Kotlin, Redux, Redux-Thunk and NodeJS. I'm also one of the founders of BlueHolder, a company that helps investors keep track of their investments :)
+
+Feel free to talk with me on the social medias
+
+Linkedin: [@filipecolaquecez](https://www.linkedin.com/in/filipecolaquecez/)
 
 <!--
 **colaquecez/colaquecez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
