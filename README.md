@@ -1,8 +1,8 @@
 ### About me
 
-I'm Filipe and I've been working as a mobile developer for almost 6 years, and I’m passionate about the mobile environment, always delivering a solution focusing on the best code and following the UX's proposals. I also love music and the financial market. I believe that these areas of knowledge combined with good ideas and engagement can transform the world.
+I've been working as a mobile developer for almost seven years, building apps from scratch as well as maintaining and adding new features to larger apps. I’m passionate about the mobile environment, particularly around delivering great UX powered by high-quality source code. 
 
-Currently I’m a mobile specialist at Grupo Boticário working with technologies such as React Native, Typescript, Swift, Redux, RTK Query. I'm also one of the founders of BlueHolder, a company that helps investors keep track of their investments :)
+Currently, I’m a mobile specialist at Grupo Boticário, working with technologies such as React Native and Swift.
 
 Feel free to talk with me on the social medias
 
