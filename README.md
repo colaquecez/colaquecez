@@ -1,8 +1,8 @@
 ### About me
 
-I've been working as a mobile developer for almost seven years, building apps from scratch as well as maintaining and adding new features to larger apps. I’m passionate about the mobile environment, particularly around delivering great UX powered by high-quality source code. 
+I've been working as a mobile developer for almost nine years, building apps from scratch as well as maintaining and adding new features to larger apps. I’m passionate about the mobile environment, particularly around delivering great UX powered by high-quality source code. 
 
-Currently, I’m a mobile engineer at Utility, working with technologies such as React Native and Swift.
+Currently, I’m a mobile engineer at Utility, working with technologies such as React Native, Swift and Kotlin.
 
 Feel free to talk with me on the social medias
 
